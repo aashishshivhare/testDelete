@@ -1,4 +1,0 @@
-testDelete
-==========
-
-test delete.......
